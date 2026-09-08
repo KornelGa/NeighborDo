@@ -1,16 +1,16 @@
-# 🤝 NeighborDo – Kisközösségi Munkaközvetítő Platform
+# NeighborDo – Kisközösségi Munkaközvetítő Platform
 
 > **Garaba Kornél & Tóth Mór (GK csapat)**
 ---
 
-## 📌 A Projekt Lényege
+## A Projekt Lényege
 Napjainkban a helyi közösségek tagjai – különösen az idősek vagy elfoglalt családok – gyakran szembesülnek azzal a problémával, hogy apróbb, ház körüli feladatokra (fűnyírás, kutyasétáltatás, szatyorcipelés, korrepetálás) nehezen találnak megbízható segítséget. Ezzel párhuzamosan a diákok és fiatalok rugalmas, helyi zsebpénzszerzési lehetőségeket keresnek, de a formális diákmunkák sokszor kötött beosztásúak.
 
 A **NeighborDo** egy olyan webes platform, amely közvetlen hidat képez a segítséget kereső lakosok és a rugalmas feladatokat vállaló diákok között.
 
 ---
 
-## 💡 Fő Funkciók
+## Fő Funkciók
 * **Feladatkiírás:** A felhasználók pár kattintással tehetnek közzé feladatokat (leírás, időpont, helyszín, díjazás/szívesség megjelölésével).
 * **Interaktív kereső és szűrés:** Feladatok böngészése kategória (pl. *Kert*, *Oktatás*, *Házimunka*, *Állatgondozás*) és helyszín alapján.
 * **Jelentkezési rendszer:** A diákok egy gombnyomással jelentkezhetnek a kiszemelt feladatokra.
@@ -19,7 +19,7 @@ A **NeighborDo** egy olyan webes platform, amely közvetlen hidat képez a segí
 
 ---
 
-## 🛠️ Felhasznált Technológiák
+## Felhasznált Technológiák
 * **Frontend:** HTML5, CSS3, JavaScript (Responsive Web Design)
 * **Backend:** PHP (PDO / MySQL kapcsolat)
 * **Adatbázis:** MySQL / MariaDB
@@ -27,7 +27,7 @@ A **NeighborDo** egy olyan webes platform, amely közvetlen hidat képez a segí
 
 ---
 
-## 🚀 Telepítés és Futtatás Helyi Környezetben
+## Telepítés és Futtatás Helyi Környezetben
 
 1. **A tárhely klónozása:**
    ```bash
