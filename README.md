@@ -21,7 +21,7 @@ A **NeighborDo** egy olyan webes platform, amely közvetlen hidat képez a segí
 
 ## Felhasznált Technológiák
 * **Frontend:** HTML5, CSS3, JavaScript (Responsive Web Design)
-* **Backend:** PHP (PDO / MySQL kapcsolat)
+* **Backend:** PHP (PDO / MySQL kapcsolat), 
 * **Adatbázis:** MySQL / MariaDB
 * **Környezet:** XAMPP (Apache webserver)
 
@@ -31,4 +31,4 @@ A **NeighborDo** egy olyan webes platform, amely közvetlen hidat képez a segí
 
 1. **A tárhely klónozása:**
    ```bash
-   git clone [https://github.com/felhasznalonev/neighbordo.git](https://github.com/felhasznalonev/neighbordo.git)
+   git clone [https://github.com/KornelGa/neighbordo.git](https://github.com/KornelGa/neighbordo.git)
